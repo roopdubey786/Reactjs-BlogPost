@@ -15,6 +15,13 @@ Fulfilled Points:
 6. screen contains details of particular post
 
 
+OUTPUT:
+
+![Screenshot (285)](https://user-images.githubusercontent.com/62478363/102099466-52a75000-3e4e-11eb-94e6-e5ee4e5c94c5.png)
+
+![Screenshot (287)](https://user-images.githubusercontent.com/62478363/102099597-72d70f00-3e4e-11eb-8839-7cfe07117003.png)
+
+
 
 
 1.The home Page contains Header which will be same throughout the whole website,
